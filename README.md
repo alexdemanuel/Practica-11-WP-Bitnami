@@ -49,5 +49,5 @@
   
   # 5 Conectar a Wordpress
   - Ponemos la ipv4 publica que nos asignan amazon y accederemos a la pagina
-  -Para acceder al panel de control de wordpress ponemos: http://ip-servidor/wp-admin y nos logueamos con las credenciales      del usuario creado en la instalación de wordpress
+  - Para acceder al panel de control de wordpress ponemos: http://ip-servidor/wp-admin y nos logueamos con las credenciales      	del usuario creado en la instalación de wordpress
   
